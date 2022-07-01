@@ -3,9 +3,9 @@
 - 🌱 Currently studying 
 computer science
 
-- :hammer: :nut_and_bolt: :triangular_ruler: :construction:
+- :hammer: :computer: :construction: Currently working with AutoCAD & Civil 3D
 
-- :soccer:
+- :soccer: :dumbell: Currently working out
 
 - 📫 How to reach me: 
 mattygron@gmail.com
