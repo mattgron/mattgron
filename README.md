@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-- 🌱 Currently learning ...
+- 🌱 Currently studying 
 Computer Science
 
 - 📫 How to reach me: ...
